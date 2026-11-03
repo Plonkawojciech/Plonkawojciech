@@ -15,18 +15,18 @@ Większość kodu piszę dziś razem z Claude Code. AI pisze dużą część lin
 
 ### Projekty publiczne
 
-| Projekt | Co robi | Stack |
-| --- | --- | --- |
-| [Solvio](https://github.com/Plonkawojciech/Solvio) · [demo](https://solvioaitracking.vercel.app) | Śledzenie wydatków: OCR paragonów, wspólne wydatki w grupie, porównanie cen i raporty | Next.js, PostgreSQL, SwiftUI, Kotlin |
-| [Szept](https://github.com/Plonkawojciech/voiceflow-apple) | Dyktowanie do dowolnej aplikacji na Macu na Apple Speech; iPhone może służyć za zdalny mikrofon | Swift, Node.js |
-| [Open-Kaap Pro](https://github.com/Plonkawojciech/open-kaap-pro) · [demo](https://open-kaap-pro.vercel.app) | Czat z modelami OpenAI, Anthropic, Google i DeepSeek: jedno pytanie do kilku modeli naraz, koszt w złotówkach przed wyborem | Next.js, Vercel AI SDK |
-| [LearnAI](https://github.com/Plonkawojciech/learnai) · [demo](https://learnai-rho.vercel.app) | Prototyp platformy do nauki pracy z AI: lekcje, quizy i symulator promptów, który ocenia odpowiedź przez Claude API | Next.js, Claude API |
-| [Przewidywanie upadłości](https://github.com/Plonkawojciech/projekt-ml-bankructwa) · [demo](https://predykcja-bankructwa.vercel.app) | Projekt ze studiów: 43 tys. polskich firm, 64 wskaźniki finansowe, cztery klasyfikatory, wyjaśnienia SHAP i analiza kosztów błędów | Python, scikit-learn, SHAP |
-| [Programowanie niskopoziomowe](https://github.com/Plonkawojciech/Programowanie-niskopoziomowe) | Ćwiczenia ze studiów: stos i sterta, układ struktur w pamięci, wyszukiwanie binarne na wskaźnikach, procesy w Windows | C |
+| Projekt | Co robi |
+| --- | --- |
+| [Solvio](https://github.com/Plonkawojciech/Solvio) · [demo](https://solvioaitracking.vercel.app) | Śledzenie wydatków: OCR paragonów, wspólne wydatki w grupie, porównanie cen i raporty<br><sub>Next.js · PostgreSQL · SwiftUI · Kotlin</sub> |
+| [Szept](https://github.com/Plonkawojciech/voiceflow-apple) | Dyktowanie do dowolnej aplikacji na Macu na Apple Speech; iPhone może służyć za zdalny mikrofon<br><sub>Swift · Node.js</sub> |
+| [Open-Kaap Pro](https://github.com/Plonkawojciech/open-kaap-pro) · [demo](https://open-kaap-pro.vercel.app) | Czat z modelami OpenAI, Anthropic, Google i DeepSeek: jedno pytanie do kilku modeli naraz, koszt w złotówkach przed wyborem<br><sub>Next.js · Vercel AI SDK</sub> |
+| [LearnAI](https://github.com/Plonkawojciech/learnai) · [demo](https://learnai-rho.vercel.app) | Prototyp platformy do nauki pracy z AI: lekcje, quizy i symulator promptów, który ocenia odpowiedź przez Claude API<br><sub>Next.js · Claude API</sub> |
+| [Przewidywanie upadłości](https://github.com/Plonkawojciech/projekt-ml-bankructwa) · [demo](https://predykcja-bankructwa.vercel.app) | Projekt ze studiów: 43 tys. polskich firm, 64 wskaźniki finansowe, cztery klasyfikatory, wyjaśnienia SHAP i analiza kosztów błędów<br><sub>Python · scikit-learn · SHAP</sub> |
+| [Programowanie niskopoziomowe](https://github.com/Plonkawojciech/Programowanie-niskopoziomowe) | Ćwiczenia ze studiów: stos i sterta, układ struktur w pamięci, wyszukiwanie binarne na wskaźnikach, procesy w Windows<br><sub>C</sub> |
 
 ### Stack
 
-| | |
+| Obszar | Technologie |
 | --- | --- |
 | Języki | TypeScript, Swift, Kotlin, Python, SQL |
 | Web | Next.js, React, Tailwind CSS, Payload CMS |
